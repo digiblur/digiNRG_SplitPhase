@@ -5,7 +5,6 @@
 #include <WiFiUdp.h>
 #include <ArduinoOTA.h>
 #include "config.h"           // rename sample_config.h and edit any values needed
-#include <ESP8266WiFi.h>
 #include <Wire.h>
 #include <ESP8266WebServer.h>
 #include <ESP8266HTTPUpdateServer.h>
